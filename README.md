@@ -38,20 +38,25 @@ componentes do banco de dados da mecânicas:
 Armazenar informações sobre clientes, incluindo nome, endereço, número de telefone e
 identificação .
 Distinção entre clientes pessoa física e jurídica.
+
 ● Veículos:
 Registrar detalhes sobre os veículos como placa, tipo (carro, moto, caminhão), modelo,
 ano, marca e data de manutenção.
 Relacionar veículos aos seus respectivos proprietários.
+
 ● Reparos:
 Registrar detalhes sobre reparos realizados, incluindo a data, o tipo de reparo e a placa
 do veículo.
+
 ● Funcionários:
 Manter informações sobre os funcionários da oficina, como nome, CPF, data de
 nascimento, data de contratação, salário, cargo, sexo, telefone, email,código.
+
 ● Setores:
 Dividir os funcionários em setores responsáveis por tipos específicos de veículos (carros,
 motos, caminhões...).
 Cada setor é liderado por um único gerente.
+
 ● Fornecedores de Peças:
 Registrar dados sobre as empresas fornecedoras de peças, incluindo nome, CNPJ e
 telefone.
