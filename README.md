@@ -33,6 +33,7 @@ A aplicação do banco de dados para uma mecânica foi projetada para gerenciar 
 relacionadas às operações diárias de uma oficina. O banco de dados armazena dados sobre
 clientes, veículos, reparos, funcionários ,fornecedores de peças, peças e setores. Os principais
 componentes do banco de dados da mecânicas:
+
 ● Clientes:
 Armazenar informações sobre clientes, incluindo nome, endereço, número de telefone e
 identificação .
@@ -54,8 +55,6 @@ Cada setor é liderado por um único gerente.
 ● Fornecedores de Peças:
 Registrar dados sobre as empresas fornecedoras de peças, incluindo nome, CNPJ e
 telefone.
-
-2
 
 ● Peças:
 Manter informações de peças fornecidas por diferentes empresas, como marca, tipo,
